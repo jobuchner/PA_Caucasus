@@ -1,6 +1,3 @@
-# PA_Caucasus
-Protected area effectiveness in the Caucasus
-
 This GitHub repository contains the data and Stata scripts to run matching and regression analyses for the research paper titled:
 "Assessing the effectiveness of strictly protected areas in preventing forest loss and degradation across different forest types in the Caucasus."
 
