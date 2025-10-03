@@ -2,8 +2,9 @@ This GitHub repository contains the data and Stata scripts to run matching and r
 "Assessing the effectiveness of strictly protected areas in preventing forest loss and degradation across different forest types in the Caucasus."
 
 Repository content:
-1) Two separate .do files for running matching and regression analyses in Stata on:
+1) Input data provided as .dat files for Stata, preprocessed in ArcGIS and Google Earth Engine (GEE).
+2) Two separate .do files for running matching and regression analyses in Stata on:
 - forest loss 
 - forest degradation
 
-2) Input data provided as .dat files for Stata, preprocessed in ArcGIS and Google Earth Engine (GEE).
+
